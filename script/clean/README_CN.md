@@ -1,4 +1,4 @@
-# 資料清整程式 Data cleaner programs
+# 資料清整程式
 
 ## clean_gemini.py
 |套件名稱|
